@@ -221,3 +221,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Resultados de auditorías y registros
+pagespeed_*.csv
+*.log
+
+# Configuración privada
+
+.env.*
+!.env.example
